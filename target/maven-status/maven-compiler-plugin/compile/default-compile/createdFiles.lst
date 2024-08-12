@@ -1,0 +1,15 @@
+com\rosales\ejVeterinaria\service\IMascotaService.class
+com\rosales\ejVeterinaria\service\MascotaDueñoDtoService.class
+com\rosales\ejVeterinaria\dto\MascotaDueñoDto.class
+com\rosales\ejVeterinaria\repository\IMascotaRepository.class
+com\rosales\ejVeterinaria\service\DueñoService.class
+com\rosales\ejVeterinaria\controller\MascotaController.class
+com\rosales\ejVeterinaria\service\IDueñoService.class
+com\rosales\ejVeterinaria\controller\DueñoController.class
+com\rosales\ejVeterinaria\repository\IDueñoRepository.class
+com\rosales\ejVeterinaria\service\IMascotaDueñoDtoService.class
+com\rosales\ejVeterinaria\service\MascotaService.class
+com\rosales\ejVeterinaria\model\Dueño.class
+com\rosales\ejVeterinaria\model\Mascota.class
+com\rosales\ejVeterinaria\EjVeterinariaApplication.class
+com\rosales\ejVeterinaria\controller\MascotaDueñoDtoController.class
